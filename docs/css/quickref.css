@@ -271,8 +271,7 @@ p:first-child {
   position: relative;
   width: auto;
   margin: 8px;
-  min-width: 60%;
-  max-width: 70%;
+  min-width: min(60%, 50em);
   top: 10%;
 }
 
