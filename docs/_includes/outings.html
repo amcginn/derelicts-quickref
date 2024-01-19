@@ -8,7 +8,7 @@
       {% if item.url contains 'html' and item.url contains 'outings' %}
       <div style="width: 100%;"></div>
       <div class="outing-link" style="width: fit-content; margin: 1em 2em; box-sizing: border-box;">
-        <a href="{{ item.url }}" style="padding: .5em 1em; border: 1px solid darkgrey; border-radius: 4px; text-decoration: none; box-sizing: border-box;">
+        <a href="{{ site.baseurl }}{{ item.url }}" style="padding: .5em 1em; border: 1px solid darkgrey; border-radius: 4px; text-decoration: none; box-sizing: border-box;">
           {{ item.title }} - {{ item.name }}
         </a>
       </div>
