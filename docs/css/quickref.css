@@ -117,6 +117,14 @@
 /* ------------------------------------------------------------------------- */
 /* Colors */
 /* ------------------------------------------------------------------------- */
+#section-characters, #section-characters .item-icon {
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+}
+#section-characters .text {
+    color: dodgerblue;
+}
+
 #section-movement, #section-movement .item-icon {
     background-color: maroon;
     border-color: maroon;
