@@ -1,0 +1,5 @@
+---
+layout: outings
+title: Outings
+---
+

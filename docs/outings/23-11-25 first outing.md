@@ -1,0 +1,25 @@
+# The Dream
+The *Derelicts* awake from the dream of *Cthulhu* attacking their gods and find themselves in a pit.
+
+There is light coming from a hole in the roof, and when they try to climb to get out, acid burns them as it drips from the walls and begins to form an *Acid Blob* monster. A voice is heard on the other side of what appears to be a solid wall—the only wall that isn't crying acid. Finally, someone thinks to respond to the muffled voice, and she says, come with me
+
+*Myra* looks at the wall, finds a latch, and an opening appears. They go through to see a figure disappear from view down a long corridor. They then freaking scatter in every direction (surely this amused the gods), but finally, *Myra* finds dynamite and gives it to *Nep Nik* who is proficient in traps and explosives. 
+
+*Mogli* feels the presence of an artifact and is almost bowled over by how powerful it feels. He finds the glowing wall and commands/suggests *Nep Nik* blow a hole through it. They do so and *Myra* runs in to find a bag. She reaches out to touch it, feels a sharp pain as life force leaves her and enters into *???*, who then **Latch**es onto her arm and crawls onto her back, despite her struggling to free herself from it. Then the spiders rush in, as they are finally able to get to the magical source they've been craving all these years.
+
+The *bag* begins whipping them with razor sharp straps and the team enters into initiative. As *Myra* is being swarmed by the spiders, the party reacts quickly to cut them down, *Myra* even pulling out her most powerful weapon to drive a hole through the head of the largest spider only to also strike *Gróa* as she runs around the corner to figure out where her team went and what that massive explosion was. *Gróa* takes a knee, as the others continue to clean up the enemy, and then gets back up and launches a volley of **Magical Missile**s into the spiders, finishing them off.
+
+The team then takes a brief moment to assess their damage and the *bag* that appears very happy to just stay latched to *Myra* for the time. *Myra* assures *Merrek* she's okay and that the *bag* saved her ass several times despite hurting her when she first picked it up. They finally move forward finding a pool of reflective water that shines with an strange light of it's own and as they stare into it they see their alternative forms standing beside them.
+
+*Nep Nik* sees the banshee, *Claudia*, that created him hovering above him
+*Hákarl* sees himself separate of *Káshi* and *Yákovná* as they stand to either side of him
+*Myra* sees herself with her hybrid form and were-form standing to either side of her
+*Merrek* sees hisself with his hybrid form and were-form standing to either side of him
+*Mogli* sees *Corrosis* standing behind him with the demons hand resting on his shoulder
+*Gróa* looks in, chuckles because all she sees is herself
+when *Myra* turns around so the *bag* is showing, instead of a bag on *Myra*'s back they see a young druid girl curled in a ball looking very frightened and alone
+*Gróa* feels compassion for her, but doesn't tell the others, though ~~she begins to wish the bag had found her first~~
+
+They move on to the door as they hear two people speaking on the other side and enter a throne room. At the far end is a man who is radiant and powerful in stature, lightning playing riddles across his flesh. He turns to them and says, "Welcome, *Derelicts*. We've been waiting for you!"
+
+Everyone present recognizes this is the image of the god *Azuron* which causes confusion, fear, and so forth among the group. He says, "I sent you a dream of what is to come. Let's change the future, shall we?"
