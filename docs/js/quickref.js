@@ -72,6 +72,13 @@ function init() {
 
   var modal = document.getElementById("modal");
   modal.onclick = hide_modal;
+
+  $("#modal-container").click(
+    function(e){e.stopPropagation()}
+  );
+  $('.modal .type-container img').click(
+    function() {hide_modal()}
+  );
 }
 
 $(window).load(init);

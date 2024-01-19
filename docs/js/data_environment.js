@@ -83,7 +83,7 @@ data_environment_vision = [
     {
         title: "Truesight",
         icon: "eye-shield",
-        subtitle: "See in darkness",
+        subtitle: "See through darkness and invisibility",
         description: "A creature with truesight can see everything in its true form, independent of the environment",
         reference: "PHB, pg. 184.",
         bullets: [
