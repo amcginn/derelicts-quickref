@@ -24,7 +24,7 @@ data_characters = [
     title: "Myra",
     icon: "barn-owl",
     subtitle: "Jordan",
-    description: "Dwarvenguard monk (wereowl)",
+    description: "Dwarvenguard ranger (wereowl)",
     reference: "",
     bullets: [
     ]
@@ -51,7 +51,7 @@ data_characters = [
     title: "Merrek",
     icon: "bear-head",
     subtitle: "Jordan",
-    description: "Dwarvenguard ranger (werebear)",
+    description: "Dwarvenguard monk (werebear)",
     reference: "",
     bullets: [
     ]
