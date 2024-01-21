@@ -1,5 +1,6 @@
 ---
-layout: outings
+layout: default
 title: Outings
 ---
 
+{% include outings.html %}

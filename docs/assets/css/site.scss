@@ -1,0 +1,38 @@
+---
+---
+
+footer {
+  font-size: small;
+  font-variant: small-caps;
+}
+
+#top-link-container {
+  width: 32px;
+  height: 32px;
+  background-color: ivory;
+  border: 1px solid darkgrey;
+  border-radius: 8px;
+  position: sticky;
+  bottom: 32px;
+  float: right;
+  box-sizing: border-box;
+  padding: 4px;
+  cursor: pointer;
+  display: none;
+}
+
+#top-link {
+  background-image: url('../img/save-arrow.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+.toc ul, .toc li {
+  list-style-type: none;
+}
+
+.toc li > ul {
+  margin-bottom: 4px;
+}
