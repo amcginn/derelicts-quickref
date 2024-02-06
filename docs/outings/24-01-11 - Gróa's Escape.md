@@ -120,7 +120,7 @@ He bats them aside. "Raaaaaggghhhhhh!" Lava floods the floor below killing every
 
 "You need to get out of here, child," Golgazia bellows. "Go through that window there and descend." He touches her on the forehead and she feels suddenly as light as a feather. "Go now." He fades from view and the dragon curls back around the ring.
 
-### The hiding place
+## The hiding place
 
 Once outside the window, Gróa realizes that there is no easy way down. She glances around to find the streets nearly deserted and no city guard in sight. From this balcony, the ground is too far down, but there is a roof down a story. She crawls over the railing and as she is letting herself down, her foot slips, but without any effort, she lands softly on the roof. Too rushed to consider it, she moves along to find the easiest way down. As she nears the corner with the merchant, she realizes it is likely too far to jump safely, but she may be able to use a tree to help herself down. It's far to get to, but it seems she has no choice. 
 
