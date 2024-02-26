@@ -16,7 +16,7 @@
   <script type="text/javascript" src="assets/js/jquery/jquery.min.js" charset="utf-8"></script>
   <!-- Style -->
   <style type="text/css">
-    .breadcrumb {
+    .pages {
       margin: 0 0 1rem 0;
       font-size: large;
       border: 1px lightgrey solid;
@@ -24,7 +24,7 @@
       padding: .5rem;
     }
 
-    .breadcrumb ul {
+    .pages ul {
       display: flex;
       flex-wrap: wrap;
       list-style: none;
@@ -32,29 +32,29 @@
       padding: 0;
     }
 
-    .breadcrumb li {
+    .pages li {
       list-style: none;
       padding: 0px;
       font-style: italic;
     }
 
-    .breadcrumb a {
-      padding: 0px 20px;
+    .pages a {
+      padding: 0px .5rem;
     }
 
-    .breadcrumb li:not(:last-child)::after {
+    .pages li:not(:last-child)::after {
       display: inline-block;
-      margin: 0 .25rem;
-      content: "→";
+      content: "|";
     }
   </style>
 </head>
 <body class="page-background">
   <div class="page fontsize" data-size="fullscreen">
-    <nav aria-label="Breadcrumb" class="breadcrumb">
+    <nav aria-label="pages-nav" class="pages">
       <ul>
-        <li><a href="#">Quick Reference</a></li>
+        <li><a href="#">Home</a></li>
         <li><a href="outings/">Outings</a></li>
+        <li><a href="characters/">Characters</a></li>
       </ul>
     </nav>
 

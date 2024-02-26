@@ -4,6 +4,10 @@
   border: 1px lightgrey solid;
   border-radius: 4px;
   padding: .5rem;
+  background-color: #fefefe;
+  width: 100%;
+  height: max-content;
+  box-sizing: border-box;
 }
 
 .breadcrumb ul {
@@ -22,6 +26,10 @@
 
 .breadcrumb a {
   padding: 0px 20px;
+}
+
+.breadcrumb a:hover {
+  text-decoration-line: underline;
 }
 
 .breadcrumb li:not(:last-child)::after {

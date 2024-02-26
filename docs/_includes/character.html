@@ -1,0 +1,13 @@
+<div class="outings-wrapper" data-size="fullscreen" >
+  <h1>{% charname %}</h1>
+
+  <div class="outings-links" >
+    {% for item in site.pages reversed %}
+      {% if item.url contains 'html' and item.url contains 'outings' %}
+      <h2 >{{ item.name | replace: ".md", "" }}</h2>
+      <div class="outing-link" >
+        <p><a href="{{ site.baseurl }}{{ item.url }}" >{{ item.title }}</a></p>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
