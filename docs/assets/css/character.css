@@ -10,83 +10,84 @@
     box-sizing: border-box;
 }
 
-.container{ 
-  display: grid;
-}
-
-
-.characters-row {
-  display: flex;
-}
-
-.characters-list, .characters-description {
-  width: 50%;
-  background-color: #fdfdfd;
-  border-width: 2px;
-  border-style: solid;
-  border-color: whitesmoke;
-}
-
-.characters-list {
-  border-right: whitesmoke;
-}
-
-.characters-description {
-  border-lef: whitesmoke;
-  border-radius: 2px;
-  padding: .5rem;
-  box-sizing: border-box;
-}
-
-ul.characters, ul.characters li {
+#main_content > ul, #main_content > ul ul, #main_content > ul li {
   list-style: none;
 }
 
-ul.characters li {
-  padding-right: 20px;
-}
-
-.character-info {
+.container {
   display: flex;
-  margin: .5rem 0;
-  background-color: lightsteelblue;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.column {
+  background-color: #fdfdfd;
+  border: darkgrey solid 2px;
   border-radius: 4px;
-  box-shadow: slategrey 1px 2px 2px;
-  transition: all .2s ease-in-out; 
+  padding: .5em;
 }
 
-.character-info:hover {
-  box-shadow: rgba(0, 0, 205, .5) 1px -1px 2px,
-              rgba(0, 0, 205, .5) 1px 1px 2px,
-              rgba(0, 0, 205, .5) -1px -1px 2px,
-              rgba(0, 0, 205, .5) -1px 1px 2px;
-  transform: scale(1.05); 
+.character .info {
+  width: fit-content;
 }
 
-.character-name {
-  align-self: center;
-  color: #654B2A;
-  font-size: 1.25rem;
-  font-weight: 500;
-  margin: 0.5rem auto .5rem .5rem;
-  text-shadow: .25px .25px 1px #896639;
+.character .title {
+  display: flex;
 }
 
-.character-icon {
-  float: left;
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-color: mediumblue;
-  box-sizing: border-box;
-  border-radius: 4px;
-  margin: 4px;
-  width: 2.5em;
-  height: 2.5em;
-  align-self: center;
-  box-shadow: rgba(0, 0, 205, .5) -1px 1px 1px, 
-              rgba(0, 0, 205, .5) -1px -1px 1px,
-              rgba(0, 0, 205, .5) 1px 1px 1px,
-              rgba(0, 0, 205, .5) 1px -1px 1px;
+.character .name {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 1.2;
+  color: #303030;
+  padding-right: .25em;
+}
+
+.character .level {
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 30px;
+  font-weight: 700;
+  height: 48px;
+  aspect-ratio: 1;
+  border: black 2px solid;
+  box-sizing: content-box;
+  margin: auto;
+  margin-right: .5em;
+  display: flex;
+  background-color: lemonchiffon;
+}
+
+.character .sub-title {
+  display: flex;
+  flex-direction: column;
+  justify-items: right;
+  margin-right: 0;
+}
+
+.character .player {
+  margin-left: auto;
+}
+
+.character .hp {
+  font-size: x-large;
+}
+
+.hp::before {
+  content: '\2764:';
+  font-family: "Twemoji Mozilla", Apple Color Emoji, "Segoe UI Emoji", "Noto Color Emoji", "EmojiOne Color";
+  margin-right: .25em;
+}
+
+.character .photo {
+  max-width: 400px;
+  margin: .5em .25em;
+}
+
+img {
+  border: 1px solid black;
+  border-radius: 20px;
 }
 
 .icon-minotaur { background-image: url(../img/minotaur.png);}

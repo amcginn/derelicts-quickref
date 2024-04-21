@@ -16,6 +16,6 @@
 - name: Merrek
   path: merrek/
   icon: bear-head
-- name: ???
+- name: '???'
   path: bag/
   icon: knapsack

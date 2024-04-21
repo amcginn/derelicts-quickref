@@ -1,11 +1,11 @@
 ---
 layout: character
-title: Mogli
+title: Corrosis - Mogli
 player: Jacob
 character: true
 ---
 
-- [Corrosis](./corrosis)
+- [Mogli](../)
 
-{% assign character = site.data.mogli %}
+{% assign character = site.data.corrosis %}
 {% include character.html %}
