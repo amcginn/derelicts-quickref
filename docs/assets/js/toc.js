@@ -1,10 +1,11 @@
+// parse page for hTags and create an unordered list automatically. 
 $(function() {
-  let topLevel= 2;
-  let botLevel = 6;
+  let topLevel= 2; // the h-level to start parsing
+  let botLevel = 6; // the h-level to end parsing
   let hTags = ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']
   let prev = '';
-  let ulTree = []
-  let root = $('.toc');
+  let ulTree = [] // track nested lists to return to the correct level
+  let root = $('.toc'); // element where the TOC is displayed
   let rootUl = $('<ul>');
 
   root.append(rootUl);

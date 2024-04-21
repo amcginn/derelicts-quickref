@@ -4,22 +4,9 @@
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="site-home" content="{{ site.baseurl }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
-    <style type="text/css">
-      .inner {
-        padding: 0 1rem;
-        min-height: 100vh;
-        background-color: whitesmoke;
-        display: flex;
-        flex-direction: column;
-        align-content: flex-start;
-        width: 60rem;
-        max-width: 95%;
-        box-sizing: border-box;
-      }
-    </style>
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/characters.css' | relative_url }}">
 
 {% seo %}
     {% include head-custom.html %}
@@ -31,15 +18,7 @@
 
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-          <p><em>{{ page.description | default: site.description | default: site.github.project_tagline }}</em></p>
-        </header>
         {% include breadcrumbs.html %}
-
-        {% if page.outing %}
-        <div class="toc"></div>
-
-        <hr>
-        {% endif %}
 
         <section id="main_content">
           {{ content }}
